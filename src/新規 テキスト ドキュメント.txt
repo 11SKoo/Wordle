@@ -1,2 +1,0 @@
- jar cvfm Wordle.jar MANIFEST.MF -C bin . -C src words.txt
-javac -d bin src/Wordle.java src/jp/ne/stars/hunikki/*.java
